@@ -34,7 +34,7 @@ To set up and run the demonstration:
 
 3. Run the main script:
    ```
-   python main.py
+   python main_demo.py
    ```
 
 For detailed instructions, configuration options, and troubleshooting, refer to the [documentation](docs/README.md).
