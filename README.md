@@ -11,12 +11,21 @@ NAIS-Mirror is a proof-of-concept implementation showcasing an innovative method
 The following diagram illustrates the core architecture of Mirror360, highlighting key components such as data ingestion, processing pipelines, and output rendering.
 
 ![Mirror360 Framework](images/framework.png)
+## Visual quality demonstration of the method
+This is a comparison of the visual quality of our method with other methods, and a comparison of the CDF visual quality elliptic curve.
 
+![Output Mask-Based Visualization](images/视觉质量效果图.gif)
+
+The following are the visual quality performance results of various baselines for our method.
+
+![Output Mask-Based Visualization](images/展示图.gif)
 ## Reference Result in a Visualization Scenario
 
 Below is a GIF demonstrating the method's output in a practical visualization use case. It showcases the real-time masking and rendering capabilities, ensuring smooth performance even in dynamic environments.
 
 ![Output Mask-Based Visualization](images/output_mask_based.gif)
+
+
 
 ## Getting Started
 
