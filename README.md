@@ -23,7 +23,7 @@ The following are the visual quality performance results of various baselines fo
 
 Below is a GIF demonstrating the method's output in a practical visualization use case. It showcases the real-time masking and rendering capabilities, ensuring smooth performance even in dynamic environments.
 
-![Output Mask-Based Visualization](images/output_mask_based.gif)
+![Output Mask-Based Visualization](images/output_mask_based.mp4)
 
 
 
