@@ -21,9 +21,11 @@ The following are the visual quality performance results of various baselines fo
 ![Output Mask-Based Visualization](images/展示图.png)
 ## Reference Result in a Visualization Scenario
 
-Below is a GIF demonstrating the method's output in a practical visualization use case. It showcases the real-time masking and rendering capabilities, ensuring smooth performance even in dynamic environments.
 
-![Output Mask-Based Visualization](images/output_mask_based.mp4)
+We will demonstrate the actual performance of video transmission based on Mirror360 methods, as well as the actual results both inside and outside the viewport.
+
+<video src="images/output_mask_based.mp4" controls="controls" width="100%"></video>
+
 
 
 
