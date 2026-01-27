@@ -27,7 +27,7 @@ We will demonstrate the actual performance of video transmission based on Mirror
 https://github.com/user-attachments/assets/bde85a7f-9186-4aab-b1bd-0446c0be6fe7
 
 
-We built a baseline comparison of visual quality using super-resolution and H.264-based methods. Below are comparison videos showing the video effects produced within a selected viewport.
+We built a baseline comparison of visual quality using super-resolution and H.264-based methods in 2.4Mbps. Below are comparison videos showing the video effects produced within a selected viewport.
 
 
 
