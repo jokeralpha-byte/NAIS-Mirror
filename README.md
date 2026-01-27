@@ -24,6 +24,8 @@ The following are the visual quality performance results of various baselines fo
 
 We will demonstrate the actual performance of video transmission based on Mirror360 methods, as well as the actual results both inside and outside the viewport.
 
+https://github.com/user-attachments/assets/bde85a7f-9186-4aab-b1bd-0446c0be6fe7
+
 
 
 
